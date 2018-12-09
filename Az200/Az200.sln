@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{50865EC2-94E3-48FC-962A-B8D1B50D988D}"
 EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "LogicApp", "LogicApp\LogicApp.deployproj", "{AAA0951C-1022-4162-8FDD-9DD365A40564}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{50865EC2-94E3-48FC-962A-B8D1B50D988D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50865EC2-94E3-48FC-962A-B8D1B50D988D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50865EC2-94E3-48FC-962A-B8D1B50D988D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA0951C-1022-4162-8FDD-9DD365A40564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA0951C-1022-4162-8FDD-9DD365A40564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA0951C-1022-4162-8FDD-9DD365A40564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA0951C-1022-4162-8FDD-9DD365A40564}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
