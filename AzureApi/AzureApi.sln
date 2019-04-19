@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTest", "ApiTest\ApiTest.csproj", "{CABFF606-6830-433C-B35F-3A95A0382DD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiTest", "ApiTest\ApiTest.csproj", "{CABFF606-6830-433C-B35F-3A95A0382DD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{2D4EAB20-8C23-4291-A942-52011A0E024C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "UnitTests\UnitTests.csproj", "{6F340301-2472-4FB3-9DE6-0A99EE5A16BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{CABFF606-6830-433C-B35F-3A95A0382DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CABFF606-6830-433C-B35F-3A95A0382DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CABFF606-6830-433C-B35F-3A95A0382DD4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2D4EAB20-8C23-4291-A942-52011A0E024C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2D4EAB20-8C23-4291-A942-52011A0E024C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2D4EAB20-8C23-4291-A942-52011A0E024C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2D4EAB20-8C23-4291-A942-52011A0E024C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F340301-2472-4FB3-9DE6-0A99EE5A16BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F340301-2472-4FB3-9DE6-0A99EE5A16BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F340301-2472-4FB3-9DE6-0A99EE5A16BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F340301-2472-4FB3-9DE6-0A99EE5A16BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
